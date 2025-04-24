@@ -4,14 +4,14 @@ Performance Analysis on Shopping Website Sales
 TrendMart, an online shopping website, seeks a detailed analysis of its advertisements to boost sales. 
 The target and actual leads generated over four weeks of the month will be calculated to evaluate the performance of these ads. 
 
-# Exploratory Analysis
+** Exploratory Analysis
 Review and summarize the data to understand its structure, key metrics, and any initial insights.
 Calculate:
   Lead Performance Overview
   Week-wise Lead Analysis
   Ad-wise Lead Analysis
   
-# Ad Performance Analysis
+** Ad Performance Analysis
 Analyze the performance of each Ad by comparing the Target and Actual leads generated for each week.
 
 # Ad Overall Performance 
