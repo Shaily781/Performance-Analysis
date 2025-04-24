@@ -6,10 +6,10 @@ The target and actual leads generated over four weeks of the month will be calcu
 
 **Exploratory Analysis**  
 Review and summarize the data to understand its structure, key metrics, and any initial insights.
-Calculate:
-  Lead Performance Overview
-  Week-wise Lead Analysis
-  Ad-wise Lead Analysis
+Calculate:  
+  Lead Performance Overview  
+  Week-wise Lead Analysis  
+  Ad-wise Lead Analysis  
   
 **Ad Performance Analysis**  
 Analyze the performance of each Ad by comparing the Target and Actual leads generated for each week.
@@ -27,11 +27,11 @@ Analyze Week-wise growth trends for each Ad.
 Analyze growth trends in leads at the company level.
 
 **Lead Performance Overview Dashboard**  
-Dashboard provides a comprehensive overview of lead performance:
-Overall: Target Leads vs. Actual Leads
-Ad: Target Leads vs Actual Leads
-Ad-wise Total Leads
-Ad Lead Contribution (in % )
+Dashboard provides a comprehensive overview of lead performance:  
+Overall: Target Leads vs. Actual Leads  
+Ad: Target Leads vs Actual Leads  
+Ad-wise Total Leads  
+Ad Lead Contribution (in % )  
 
 
 
