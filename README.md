@@ -11,22 +11,22 @@ Calculate:
   Week-wise Lead Analysis
   Ad-wise Lead Analysis
   
-**Ad Performance Analysis**
+**Ad Performance Analysis**  
 Analyze the performance of each Ad by comparing the Target and Actual leads generated for each week.
 
-**Ad Overall Performance**
+**Ad Overall Performance**  
 Evaluate the overall performance of all Ads.
 
-__Overall Performance Analysis__
+**Overall Performance Analysis**
 Evaluate the marketing department’s overall performance by comparing target leads and actual leads.
 
-# Ad Growth Trend
+**Ad Growth Trend**  
 Analyze Week-wise growth trends for each Ad.
 
-# Overall Growth Trend
+**Overall Growth Trend**  
 Analyze growth trends in leads at the company level.
 
-# Lead Performance Overview Dashboard
+**Lead Performance Overview Dashboard**  
 Dashboard provides a comprehensive overview of lead performance:
 Overall: Target Leads vs. Actual Leads
 Ad: Target Leads vs Actual Leads
